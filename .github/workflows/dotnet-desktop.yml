@@ -16,4 +16,4 @@ jobs:
       - name: Trigger Jenkins Build
         run: |
           curl -X POST \
-          "http://3.90.184.224:8080/job/DatingApp/build"
+          "http://3.90.184.224:8080/job/TestDatingApp/build"
