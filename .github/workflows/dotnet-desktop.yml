@@ -3,7 +3,7 @@ name: Trigger Jenkins CI/CD
 on:
   push:
     branches:
-      - Future
+      - main
 
 jobs:
 
